@@ -6,4 +6,4 @@ on:
 jobs:
   process-pr:
     name: Process PR to a branch
-    uses: keeonline/poc-consumer/.github/workflows/gitflow_on_pull_request.yml
+    uses: keeonline/poc-consumer/.github/workflows/gitflow_on_pull_request.yml@feature-1
